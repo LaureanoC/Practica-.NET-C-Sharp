@@ -31,6 +31,7 @@
             menuPrincipal = new MenuStrip();
             menuArchivo = new ToolStripMenuItem();
             menuSalir = new ToolStripMenuItem();
+            grillaToolStripMenuItem = new ToolStripMenuItem();
             menuPrincipal.SuspendLayout();
             SuspendLayout();
             // 
@@ -45,7 +46,7 @@
             // 
             // menuArchivo
             // 
-            menuArchivo.DropDownItems.AddRange(new ToolStripItem[] { menuSalir });
+            menuArchivo.DropDownItems.AddRange(new ToolStripItem[] { menuSalir, grillaToolStripMenuItem });
             menuArchivo.Name = "menuArchivo";
             menuArchivo.Size = new Size(60, 20);
             menuArchivo.Text = "Archivo";
@@ -56,6 +57,13 @@
             menuSalir.Size = new Size(180, 22);
             menuSalir.Text = "Salir";
             menuSalir.Click += menuSalir_Click;
+            // 
+            // grillaToolStripMenuItem
+            // 
+            grillaToolStripMenuItem.Name = "grillaToolStripMenuItem";
+            grillaToolStripMenuItem.Size = new Size(180, 22);
+            grillaToolStripMenuItem.Text = "Grilla";
+            grillaToolStripMenuItem.Click += grillaToolStripMenuItem_Click;
             // 
             // Main
             // 
@@ -79,5 +87,6 @@
         private MenuStrip menuPrincipal;
         private ToolStripMenuItem menuArchivo;
         private ToolStripMenuItem menuSalir;
+        private ToolStripMenuItem grillaToolStripMenuItem;
     }
 }

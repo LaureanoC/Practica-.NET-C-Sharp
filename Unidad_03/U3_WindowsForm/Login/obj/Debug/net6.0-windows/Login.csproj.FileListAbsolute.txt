@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\bin\Debug\net6.0-windows\Login.exe
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\bin\Debug\net6.0-windows\Login.dll
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.LoginForm.resources
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.dll
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\U3_WindowsForm\Login\obj\Debug\net6.0-windows\ref\Login.dll

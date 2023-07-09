@@ -29,5 +29,11 @@ namespace Main
         {
 
         }
+
+        private void grillaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormGrilla grilla = new FormGrilla();
+            grilla.ShowDialog();
+        }
     }
 }
