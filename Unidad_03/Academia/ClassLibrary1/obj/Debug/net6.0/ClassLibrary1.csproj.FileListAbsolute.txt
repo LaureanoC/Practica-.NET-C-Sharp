@@ -10,3 +10,15 @@ C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE
 C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Academia\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
 C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
 C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Academia\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\Usuario\Desktop\Laureano\Universidad\2023\Tecnología de desarrollo IDE (elect)\Practica NET C#\Unidad_03\Academia\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
